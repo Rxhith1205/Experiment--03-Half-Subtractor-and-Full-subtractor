@@ -56,7 +56,8 @@ half subtractor:
 
 full subtractor:
 
-![image](https://github.com/Rxhith1205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473311/cf0c9abb-8abc-4163-b2cb-8019a0ccf49f)
+![image](https://github.com/Rxhith1205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473311/106ab873-ebc8-42eb-b026-f2e36c1e09b0)
+
 
 
 ##  RTL realization
