@@ -42,16 +42,44 @@ half subtractor:
 
 ![image](https://github.com/Rxhith1205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473311/e1604d95-5504-442e-b15b-aa15676490ae)
 
+full subtractor:
+
+![image](https://github.com/Rxhith1205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473311/3b99380d-2ec8-40c7-8c0e-cd2d0e826cfe)
+
 ## Output:
 
-## Truthtable
+Truthtable:
 
+half subtractor:
+
+![image](https://github.com/Rxhith1205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473311/4cc7981a-5155-4996-9972-a07629f4226c)
+
+full subtractor:
+
+![image](https://github.com/Rxhith1205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473311/cf0c9abb-8abc-4163-b2cb-8019a0ccf49f)
 
 
 ##  RTL realization
 
+half subtractor:
+
+![image](https://github.com/Rxhith1205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473311/102ed177-b102-40ef-9b44-b347d8733421)
+
+full subtractor:
+
+![image](https://github.com/Rxhith1205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473311/eaf43cda-572f-4c89-93dd-37e398f8e9e2)
+
 
 ## Timing diagram 
+
+half subtractor:
+
+![image](https://github.com/Rxhith1205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473311/f2a9439f-7436-491c-a409-b3fa90d094a8)
+
+full subtractor:
+
+![image](https://github.com/Rxhith1205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473311/dbb98a26-b22c-4682-ad22-8d8ed9768e96)
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
